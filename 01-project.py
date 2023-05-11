@@ -1,4 +1,6 @@
 import random
+import os
+os.system('cls')
 
 # Snake Water Gun or Rock Paper Scissors
 def gameWin(comp, you):
